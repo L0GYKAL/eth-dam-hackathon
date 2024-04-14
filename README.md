@@ -44,9 +44,8 @@ To embark on your journey with CoconyM:
 
 1. Clone the CoconyM repository.
 2. Install Rust and required dependencies.
-3. Build the project using `cargo build`.
-4. Launch CoconyM using `cargo run`.
-5. Begin mixing and swapping your assets with confidence!
+3. Deploy on Oasis
+4. Begin mixing and swapping your assets with confidence on our wonderful frontend!
 
 ## Contribution
 
