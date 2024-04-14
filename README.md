@@ -27,15 +27,15 @@ Enjoy the flexibility of withdrawing funds to multiple addresses with varying to
 ## How It Works
 
 1. **Deposit**  
-   ![Deposit Image Placeholder](https://github.com/L0GYKAL/eth-dam-hackathon/assets/32228897/e967cc45-10cc-4265-a506-b41cd227db8d)
+   ![Deposit](https://github.com/L0GYKAL/eth-dam-hackathon/assets/32228897/51029558-2cd9-42ca-9d10-823ec6a49763)
    Deposit funds securely into CoconyM using your shared secret with the TEE, seamlessly adding them to your balance.
 
-2. **Swap**  
-   ![Swap Image Placeholder](https://github.com/L0GYKAL/eth-dam-hackathon/assets/32228897/901b6a1c-fe71-4fb1-bcfa-6c8d9b33ee9a)
+3. **Swap**  
+   ![swap](https://github.com/L0GYKAL/eth-dam-hackathon/assets/32228897/fa67a70f-78c8-4287-8246-e116c3263bb2)
    Utilize the swap functionality to exchange assets at optimal prices, ensuring privacy and security throughout the process.
 
-3. **Withdraw**  
-   ![withdraw](https://github.com/L0GYKAL/eth-dam-hackathon/assets/32228897/74c64951-71cb-4044-b823-3f793a214081)
+5. **Withdraw**  
+   ![withdraw](https://github.com/L0GYKAL/eth-dam-hackathon/assets/32228897/9ef45c1a-4ccd-480c-a702-0461ebaf01ec)
    Request withdrawals with diverse parameters to multiple addresses, maintaining privacy and security with added delays and token variations.
 
 ## Getting Started
